@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.gradle
+.gradle/
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/workspace.xml
+MyTracks/build.gradle
+MyTracks/build/
+MyTracksLib/build.gradle
+MyTracksLib/build/
+MyTracksLib/gen/
+build.gradle
+build/
+google-play-services_lib/build.gradle
+google-play-services_lib/build/
+google-play-services_lib/gen/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+settings.gradle

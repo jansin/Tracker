@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyTracks/MyTracks.iml" filepath="$PROJECT_DIR$/MyTracks/MyTracks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTracksLib/MyTracksLib.iml" filepath="$PROJECT_DIR$/MyTracksLib/MyTracksLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tracker.iml" filepath="$PROJECT_DIR$/Tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>
